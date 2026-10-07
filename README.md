@@ -18,6 +18,8 @@ I used [Waveshare ESP32-C3-Zero](https://www.waveshare.com/esp32-c3-zero.htm) de
 
 I use Waveshare's 400x300, 4.2 inch E-ink display module. 
 
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/223413de-6413-4b3f-b723-3569439954cd" />
+
 ## 3. Sensirion SEN55
 
 - Particulate matter PM1.0, PM2.5, PM4, PM10
